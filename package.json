@@ -9,10 +9,10 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "jest --verbose --coverage"
   },
   "repository": {
-    "start": "node index.js",
     "type": "git",
     "url": "git+https://github.com/ehammes/lab-01-CI.git"
   },
