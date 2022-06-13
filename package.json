@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "express": "^4.18.1",
+    "jest": "^28.1.1",
+    "supertest": "^6.2.3"
+  },
+  "name": "lab-01-ci",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ehammes/lab-01-CI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ehammes/lab-01-CI/issues"
+  },
+  "homepage": "https://github.com/ehammes/lab-01-CI#readme"
+}
