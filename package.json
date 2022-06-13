@@ -12,6 +12,7 @@
     "test": "jest --verbose --coverage"
   },
   "repository": {
+    "start": "node index.js",
     "type": "git",
     "url": "git+https://github.com/ehammes/lab-01-CI.git"
   },

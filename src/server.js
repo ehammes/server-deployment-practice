@@ -10,6 +10,10 @@ app.get('/', (req, res) => {
   res.status(200).send(`Hello class!`);
 });
 
+app.get('/hello', (req, res) => {
+  res.status(200).send(`Hello World!`);
+});
+
 function start() {
   app.listen(PORT, () => console.log(`listening on port ${PORT}`));
 }
