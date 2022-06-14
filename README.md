@@ -19,7 +19,6 @@ Create and deploy a web server using CI and CD and get used to the general proce
 
 #### `.env` requirements (where applicable)
 
-<<<<<<< HEAD
 TBD
 
 #### How to initialize/run your application
@@ -39,14 +38,3 @@ nodemon
 #### Tests
 
 TBD
-=======
-#### How to initialize/run your application (where applicable)
-
-#### How to use your library (where applicable)
-
-#### Features / Routes
-
-#### Tests
-
-TBD
->>>>>>> 92dacf3f7dc49270d46673ebeb21a39af8d4cdff
