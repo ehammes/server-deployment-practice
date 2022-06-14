@@ -19,11 +19,21 @@ Create and deploy a web server using CI and CD and get used to the general proce
 
 #### `.env` requirements (where applicable)
 
-#### How to initialize/run your application (where applicable)
+TBD
+
+#### How to initialize/run your application
+
+GET: /
+GET: /hello
 
 #### How to use your library (where applicable)
 
+nodemon
+
 #### Features / Routes
+
+/
+/hello
 
 #### Tests
 
